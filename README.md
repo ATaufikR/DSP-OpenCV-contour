@@ -9,4 +9,4 @@ goodFeaturesToTrack
 calcOpticalFlowPyrLK
 HoughLinesP 
 
-MatToQImage us used
+MatToQImage is used
