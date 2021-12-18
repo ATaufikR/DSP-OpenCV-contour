@@ -6,6 +6,8 @@
 using namespace cv;
 using namespace std;
 
+#define CV_AA 16
+
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
